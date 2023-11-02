@@ -1,1 +1,119 @@
+#EXTM3U
+#EXTINF:11,AMERICA TV PERU 2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1356819011&_cdn_timestamp=1699063211&_cdn_token=741b4f4d98d0437c665fccdbc66a8648e72523b8
+#EXTINF:11,Cartoon Network HD
+http://177.53.153.21:8001/play/a03d/index.m3u8
+#EXTINF:11 group-title="Dibujos", Tooncast
+http://177.53.153.21:8001/play/a085/index.m3u8
+#EXTINF:11 group-title="Latino", LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:11 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es", Fox Sports Premium
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
+#EXTINF:-1 group-title="Deportes", ESPN Deportes
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280
+#EXTINF:11 group-title="Deportes", FOX Sports 
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
+#EXTINF:11 group-title="Deportes", FOX Sports 2
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
+#EXTINF:11 group-title="Deportes", FOX Sports 3
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
+#EXTINF:11 group-title="Deportes", ESPN 
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+#EXTINF:11 group-title="Deportes", ESPN 2
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
+#EXTINF:11 group-title="Deportes", ESPN 3
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
+#EXTINF:11 group-title="Deportes", TUDN MX
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
+#EXTINF:-1 group-title="Deportes", ITV Deportes 
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1 group-title="Deportes", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", Golazo Network 
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:244,Fox Deportes XumoTv
+https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
+#EXTINF:21,TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:21,EVENTOS TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:20,EVENTOS TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:21,EVENTOS TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:20,EVENTOS TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:21,EVENTOS TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:25,FuboTv FS US HD
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:54,SportsNews Highlights
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-ono/playlist.m3u8
+#EXTINF:52,SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:60,380|EDGE Sport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:36,ADSPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+#EXTINF:36,ADSPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+#EXTINF:60,STADIUM SPORTS
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:40,Sportsgrid Network
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
+#EXTINF:60,LSN SPORTS NETWORK
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:60,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:60,Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png",HISTORY HD
+http://177.93.45.155:6143/play/a034/index.m3u8
+#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="http://images.mi.tv/channels/mx_history-hd_m.png",HISTORY+
+http://190.92.7.19:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-cinema-dark-logo.png",Universal Cinema East
+http://170.254.172.10:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-comedy-dark-logo.png",Universal Comedy HD
+http://170.254.172.10:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-crime-dark-logo.png",Universal Crime HD
+http://170.254.172.10:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png",Universal Premiere HD
+http://170.254.172.10:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png",Universal Premiere O
+http://170.254.172.10:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-reality-dark-logo.png",Universal Reality HD
+http://170.254.172.10:8000/play/a04u/index.m3u8
+#EXTINF:11,HBO HD
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:11,HBO Family HD
+http://177.53.153.21:8001/play/a04g/index.m3u8
+#EXTINF:11,HBO XTREME HD
+http://177.53.153.21:8001/play/a04h/index.m3u8
+#EXTINF:11,HBO POP HD
+http://177.53.153.21:8001/play/a01y/index.m3u8
+#EXTINF:0,HBO HD
+http://181.78.105.146:6060/play/a00h
+#EXTINF:11,HBO HD
+http://167.250.222.35:16000/play/a040/index.m3u8
+#EXTINF:0,HBO HD
+http://45.179.140.242:8000/play/a0kt
+#EXTINF:0,HBO 2 HD
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:0,HBO Plus
+http://45.179.140.242:8000/play/a0la
+#EXTINF:0,HBO Family HD
+http://181.78.105.146:6060/play/a00k
+#EXTINF:0,HBO Family HD
+http://45.179.140.242:8000/play/a0lc
+#EXTINF:0,HBO Xtreme
+http://181.78.105.146:6060/play/a00l
+#EXTINF:0,HBO Xtreme
+http://45.179.140.242:8000/play/a0lb
+#EXTINF:11,WARNER HD
+http://177.53.153.21:8001/play/a08l/index.m3u8
+#EXTINF:11,group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-crime-dark-logo.png",Universal Crime HD
+http://177.53.153.21:8001/play/a09g/index.m3u8
+#EXTINF:11,group-title="Peliculas" tvg-logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png",Universal Premiere HD
+http://177.53.153.21:8001/play/a0aw/index.m3u8
+
 
